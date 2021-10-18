@@ -37,13 +37,22 @@ SQL is a structured query language that is a basic lanquage for accessing and ma
 An explanation of RDMS is it is a relational data base management system and is the basis for SQL and for all modern database systems such as MS SQL Server, IBM DB 32, Oracle, MySQL and Microsoft Access. The data in RDBMS is stored in database objects called tables, this is how it relates to SQL and the purpose of SQL is to get the data you want.
 
 ### Relationship, Primary and Foreign Keys
+The relationship of primary and foreign keys is the primary key is a key is usually the unique identification number of the records that is in both tables. And a foreign key is a foreign key is a field in one table that connects to the primary key data in the original table.
 
 ## SQL Injections
+An explanation SQL injection attacks allow attackers to spoof identity, tamper with existing data, cause repudiation issues such as voiding transactions or changing balances, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server.  Such security threats can be reduced  by utilizing parameterized database queries with bound, typed parameters and careful use of parameterized stored procedures in the database. Additionally, developers, system administrators, and database administrators can take further steps to minimize attacks or the impact of successful attacks by keeping all web applications up to date with latest security patches, utilizing least privileges, do not use shared database accounts between applications, validate supplier input for expected data types and configure proper error reporting and handling.
 
 ## Ethical and Legal Implications
+Since information systems have had a huge impact on businesses. It was important to develop Ethics and Legal guidelines to be followed by the information systems industry and individuals.
+
 ### Code of Ethics
+The code of ethics basically is a document that outlines a set of accepatable behaviors for a professional group or social group. A good example of this is the ACM (Association for Computing Machinery) that created a code for computing discipline. The ACM Code of Ethics and Professional Conduct is a good example of code of ethics that was created to establish ethical professional conduct for every member of the ACM.
+
 ### Intellectual Property
+Intellectual property is defined as a property (idea, invention or process) that derives from work of the mind or intellect. And basically the svg log created is considered an intellectual property. The role of a trademark in defining intellectual property is it is a word, phrase, logo, shape or sound that identifies a source of goods or services, such as the Nike “Swoosh” and my svg logo. In addition it might be important to copyright the svg image created because the copyright law grants copyright protection for seventy years after the author’s death or ninety-five years from the date of creation for a work created for hire.
+
 ### Information Collection
+In the US the government has strict guidelines on how much information can be collected on its citizens. Certain classes of information have been restricted by laws over time and the advent of digital tools has made these restrictions more important.COPPA, FERPA, and HIPPA restrict the collection of information on the internet. COPPA is the Children’s Online Privacy Act that requires websites that are collecting data on children under age thirteen to make good faith effort to determine the age of those accessing their websites and if child is under thirteen years old it requires parental consent obtained. FERPA is the Family Education Rights Privacy Act is a law that protects the students education records, this law specifies that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level and at that point, control of the information is given to the child. HIPPA the Health Insurance Portability Accountability Act is the law the specifically singles out records related to health care as a special class of personally identifiable information. 
 
 ## Conclusion
-Include your conclusion here...
+In conclusion this section was very interesting it described various database models and allowed the opportunity to practice querying a database with SQL. In addition this section discussed key ethical and legal implications of information systems.
